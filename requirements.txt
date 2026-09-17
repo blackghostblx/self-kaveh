@@ -1,0 +1,4 @@
+telethon
+python-telegram-bot>=20,<21
+motor
+aiohttp
